@@ -10,6 +10,11 @@
       "StackName": "amplify-udemydemo-dev-160148",
       "StackId": "arn:aws:cloudformation:ap-south-1:634870470394:stack/amplify-udemydemo-dev-160148/04e42240-f446-11eb-b778-024fa12669d6",
       "AmplifyAppId": "d2eekp90tbw1h5"
+    },
+    "categories": {
+      "auth": {
+        "udemydemo6a8f49c2": {}
+      }
     }
   }
 }
